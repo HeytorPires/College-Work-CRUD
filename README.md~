@@ -24,3 +24,4 @@ Para utilizar o programa, siga as instruções abaixo:
 
    ```bash
    gcc main.c -o crud
+
